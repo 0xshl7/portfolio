@@ -1,4 +1,4 @@
-# Website Development Plan for Sohail Yasser's Portfolio
+# Website Development Plan for My Portfolio
 
 This document outlines the structure and implementation details for Sohail Yasser's modern portfolio website, built using vanilla HTML, CSS, and JavaScript.
 
